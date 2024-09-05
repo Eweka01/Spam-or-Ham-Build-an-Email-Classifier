@@ -19,9 +19,4 @@ The objective of this project is to build a system that uses machine learning te
 - **pandas** for data manipulation
 - **Jupyter Notebook** for interactive model development
 
-## Setup Instructions
-
-1. **Clone the Repository**:
-   ```bash
-   git clone [<repository-url>](https://github.com/Eweka01/Spam-or-Ham-Build-an-Email-Classifier/)
    

@@ -23,5 +23,5 @@ The objective of this project is to build a system that uses machine learning te
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone [<repository-url>](https://github.com/Eweka01/Spam-or-Ham-Build-an-Email-Classifier/)
+   
